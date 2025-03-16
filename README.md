@@ -61,14 +61,4 @@ There are two ways to launch Video Converter:
 - **Cross-Platform Considerations:**  
   Although this version is designed for Windows, the code can be adapted for macOS or Linux environments with some modifications.
 
-## Getting Help
-
-If you encounter any issues or have suggestions for improvements, please consider the following:
-- **GitHub Issues:**  
-  Visit our [GitHub repository](https://github.com/jemmonsss/Video-Converter) to report issues or suggest features.
-- **Contact:**  
-  Feel free to reach out to the maintainer with any questions.
-
-Enjoy using Video Converter and happy converting!
-
 ---
